@@ -180,10 +180,11 @@ RMSE
 R² Score
 will be added after evaluation.
 📸 Screenshots
-Screenshots of the application will be added here, including:
-Home / prediction form
-Prediction result page
-Machine learning workflow
+![Form](screenshots/Form.png)
+
+![Main Page](screenshots/Main%20Page.png)
+
+![Price](screenshots/Price.png)
 👤 Author
 Hanna Muhammed
 GitHub: @hannamuhammed⁠
