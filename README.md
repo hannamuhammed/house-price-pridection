@@ -53,6 +53,7 @@ Machine Learning Model
 House Price Prediction
   ↓
 React Result Page
+'''
 🛠️ Tech Stack
 Layer
 Technology
