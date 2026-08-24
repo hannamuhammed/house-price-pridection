@@ -1,0 +1,30 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Machine Learning models
+*.pkl
+
+# Node.js
+node_modules/
+dist/
+
+# Environment files
+.env
+backend/.env
+frontend/.env
+
+# Dataset
+*.csv
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
