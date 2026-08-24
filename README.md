@@ -181,11 +181,11 @@ RMSE
 R² Score
 will be added after evaluation.
 📸 Screenshots
-![Form](screenshots/Form.png)
+![Form](backend/screenshots/Form.png)
 
-![Main Page](screenshots/Main%20Page.png)
+![Main Page](backend/screenshots/Main%20Page.png)
 
-![Price](screenshots/Price.png)
+![Price](backend/screenshots/Price.png)
 👤 Author
 Hanna Muhammed
 GitHub: @hannamuhammed⁠
